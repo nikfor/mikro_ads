@@ -1,0 +1,12 @@
+source 'https://rubygems.org'
+
+gem 'activerecord'
+gem 'pg'
+gem 'sinatra-activerecord'
+gem 'sinatra-contrib'
+gem 'dry-initializer', '~> 3.0.3'
+gem 'fast_jsonapi', '~> 1.5'
+gem 'kaminari-sinatra'
+gem 'kaminari'
+gem 'kaminari-activerecord'
+gem 'emk-sinatra-url-for'
